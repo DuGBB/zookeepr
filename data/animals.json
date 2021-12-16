@@ -198,6 +198,15 @@
         "hungry"
       ],
       "id": "20"
+    },
+    {
+      "name": "GrantJames",
+      "species": "SuperBoy",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "21"
     }
   ]
 }
