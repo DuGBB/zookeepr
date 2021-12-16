@@ -126,6 +126,15 @@
         "loving"
       ],
       "id": "21"
+    },
+    {
+      "name": "BooByJay",
+      "species": "FurCat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
